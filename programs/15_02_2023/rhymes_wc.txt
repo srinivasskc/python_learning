@@ -1,0 +1,4 @@
+['One,', 'two,', 'three,', 'four,', 'five,\n']  word count: 5
+['Once', 'I', 'caught', 'a', 'fish', 'alive,\n']  word count: 6
+['Six,', 'seven,', 'eight,', 'nine,', 'ten,\n']  word count: 5
+['Then', 'I', 'let', 'go', 'again.']  word count: 5
