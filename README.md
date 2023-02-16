@@ -1,6 +1,6 @@
 # Python Self-Study Curriculum (4 Weeks)
 
-Week 1 and 2:
+Week 1 and 2: (1 hr/day)
 | Concept | Progress |
 | ------ | ------ |
 | Variables| Completed |
