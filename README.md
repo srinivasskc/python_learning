@@ -19,6 +19,8 @@ Week 1 and 2: (1 hr/day)
 
 Assignment:
 Exercises on above concepts.
+| Concept | Progress |
+| ------ | ------ |
 | Variables| Completed |
 | Numbers| Completed |
 | Strings | Completed |
