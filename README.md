@@ -14,8 +14,23 @@ Week 1 and 2: (1 hr/day)
 | Functions | Completed |
 | modules | Completed |
 | Read, write files | Completed |
-| Exception handling | TBD |
-| Classes, Objects | TBD |
+| Exception handling | Completed |
+| Classes, Objects | Completed |
 
 Assignment:
 Exercises on above concepts.
+| Concept | Progress |
+| ------ | ------ |
+| Variables| Completed |
+| Numbers| Completed |
+| Strings | Completed |
+| Lists | TBD |
+| Dictionaries | TBD |
+| Tuples | TBD |
+| If condition | TBD |
+| for loop | TBD |
+| Functions | TBD |
+| modules | TBD |
+| Read, write files | TBD |
+| Exception handling | TBD |
+| Classes, Objects | TBD |
