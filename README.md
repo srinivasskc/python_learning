@@ -24,10 +24,10 @@ Exercises on above concepts.
 | Variables| Completed |
 | Numbers| Completed |
 | Strings | Completed |
-| Lists | TBD |
+| Lists | Completed |
 | Dictionaries | TBD |
 | Tuples | TBD |
-| If condition | TBD |
+| If condition | Completed |
 | for loop | TBD |
 | Functions | TBD |
 | modules | TBD |
