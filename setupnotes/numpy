@@ -1,0 +1,20 @@
+NumPy is the fundamental package for scientific computing with Python.
+
+Installation:
+Step 1: CMD - python
+Step 2: pip install numpy
+
+Verification:
+Step 3: import numpy
+
+Project URL: https://pypi.org/project/numpy/
+
+Uninstall:
+Step 4: pip uninstall numpy
+
+Notes:
+a. numpy's most useful feature is - n dimentional array object.
+b. Benefits of numpy array over a python list.
+- Less Memory
+- Fast
+- Convenient
