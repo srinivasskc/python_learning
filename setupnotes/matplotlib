@@ -2,7 +2,7 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 
 Installation:
 Step 1: CMD - python
-Step 2: pip install matplotlib
+Step 2: CMD - pip install matplotlib
 
 Verification:
 Step 3: import matplotlib

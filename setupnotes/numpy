@@ -1,8 +1,10 @@
 NumPy is the fundamental package for scientific computing with Python.
 
+NumPy = Numerical Python.
+
 Installation:
 Step 1: CMD - python
-Step 2: pip install numpy
+Step 2: CMD - pip install numpy
 
 Verification:
 Step 3: import numpy
@@ -18,3 +20,10 @@ b. Benefits of numpy array over a python list.
 - Less Memory
 - Fast
 - Convenient
+c. Can be treated as replacement to matlab.
+d. numpy is extremely faster 30 times than python list.
+e. When we create a numpy array it's been stored in a continuous blocks of memory
+f. Optimized for recent computer architecture.
+g. Useful when working on linear algebra, matrix operations, fourier transformation.
+
+Three-Dimensional Matrix will be useful when you are going to learn deep learning or image recognition
