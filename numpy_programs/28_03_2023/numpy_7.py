@@ -17,4 +17,8 @@ print(type(array2))
 print(array2.dtype)
 # <U11 means Unicode and 11 -  number of elements that it can hold
 
+"""
+We cannot multiply the unicode string.
+"""
+# print(array2*2)
 
